@@ -1,0 +1,3 @@
+INSERT INTO tb_pessoa (nome, cpf, rg, data_nasc, estado_civil, telefone, email) VALUES ('Fulano de Tal', '12332112312', '5035939', '2000-06-14 09:42:00.0000', 'solteiro', '+5547999050594', 'fulano@teste.com');
+INSERT INTO tb_pessoa (nome, cpf, rg, data_nasc, estado_civil, telefone, email) VALUES ('Ciclano da Silva', '32112332112', '9309976', '1997-12-29 17:50:00.0000', 'casado', '+5541998657734', 'ciclano@teste.com');
+INSERT INTO tb_pessoa (nome, cpf, rg, data_nasc, estado_civil, telefone, email) VALUES ('Joana Aparecida', '98765432100', '7793421', '1965-03-20 20:35:00.0000', 'casado', '+5552988375743', 'joana@teste.com');
